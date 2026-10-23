@@ -1,0 +1,10 @@
+title_screen.inc
+    ```
+6.  In the big text box below, paste this code:
+
+```c
+.title_screen_emerald
+.string "ARCEUS VERSION\\n"
+.string "THE FINAL DAWN\\n"
+.string "       \\n"
+.string "PRESS START"
